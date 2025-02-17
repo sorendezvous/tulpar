@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+    --persian-red: #e02020;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}

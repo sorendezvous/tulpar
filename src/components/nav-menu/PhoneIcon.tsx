@@ -1,0 +1,13 @@
+const PhoneIcon = () => {
+    return (
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            xmlnsXlink="http://www.w3.org/1999/xlink"
+            width="31px" height="31px">
+            <image opacity="0.349" x="0px" y="0px" width="31px" height="31px"
+                   xlinkHref="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACkVBMVEUAAAD//////////////////////////////////////////////////////////////////////////v7//fz//Pv//fz//v7/////////////8fH/rqn/XlT/Ukb/Wk//o5z/6uj/////////9/b/ioP/TkT/eHD/8fD/////////2NX/TkX/S0H/wL3/////////////wsD/RT3/p6P/////////2tn/Qjv/vbv/////////////+fn/RD7/Pjj/RkH/4N//9fX/vr3/7u3/ioj/OjX/4N///v7/SkX/ZmP/////////9vf/NzL/VVL/u7r/5+b/uLf/My//kY//+fn/kI7/////W1n/Ly3//v7/OTb/////////////LCn/Q0L/kZD/////Jyb/4uP/+/r/LS3/+/v/////JCT/Tk7/ycn/+vr/ISP/n5//mJn/+/v/JCX/HR//z9D/s7P/PT7/7+//xcf/NTf//v7/////aWv/Gx//HCD/5OX/7e3/Zmj/IiX/8vL/0NH/Mzb/Nzn/////ysv/GB3/HSH/2Nj//f3/sLL/oqX////////+/Pz/HSP/Fhz/o6T/dnn/9PP/////rK7/Exv/PUX/1tj//v7/6Oj/Fx//en///////v3/Ehv/EBj/ICn/nqH/5+f/6+v/nJ//+vn/9/j/DRf/Dxr/4eP/////////z9H/ChX/DBn/0tT/////eID/BxP/Iyz/5+f//////v7/Dxz/TFb/sLX/6+3/+vr/t7v/FSH/BBL/oqj//f3//////v7/297/gYn/KDX/AhL/Hiv/c3v/zc/+/Pz///////////////////////////////////////////////////+L5zwPAAAA2nRSTlMAABArQU9YWVBDLhQdR0wkAQ1XST85PUdWSlVDNC4tLjJAJiNIMS0wQy8cOy0tNycMVDctNBVAPC03SwIYSi0tLj1HNkIyLT5ULi9NCkgtLzY/Ni0ySzI4MC1RLkRFUy0vM1EtP04tPk4tLzo7LTQ0QC0tOzcvRTkuSzIxLS1BRDEtRjsuLj86LS09UDU1KANPLS01Mkc3Ni0vPVVDLTJCUS0tLjVBQzVMSi0tQD0XOy0tPQgzLS5CSFYuMTdCTzguLTZRB1I+My8tLzI7UBEfMwU2NDoLEz45FuXXg7YAAAABYktHRAH/Ai3eAAAAB3RJTUUH6QIRACU0pr2nIgAAAipJREFUKM9lk+dbE0EQhzeC9yMSwQQ1R+zGFhuigiXRWGM0GksUjAU0WEDF3ruCvRcwih17RyzYC1hiw17+G2fvUtjk/XB3M+8+z+7szTAWpl5cfH0JSNA2SNSwaDS6hoiQlNxI1HotTxtSGjdpapT5Z2piXa0zUapZ8xYtOa1atzEAUtuINtO27dp3iNCxE623hHRn0l26dhPoTrk0VfdIB3r2iqa3BClD8ZlAn76x9AP6W0nbgAED7fZBg4cMtQsMA5LJxwPDHQ7HCMA50lGXUQa4NGw0MMbtdo+l82CcW2A8kMHMwASPxzORX8okj0AWrzEbmOz1erO4n+IVmCpjGpuOnFxiBt2qNDNXxAgfcyEljzMLmD0nT2QuwPJhLODMcwLzC0QWkE9FUqHCQtpgUaHAYhiYFvKSpQrL6Acvp/eKlatWq5k1yGdrgXXrFTZspBI2bd6ylW6qqJgS2yRsZzpgx06VXbt5kXuUDtpL8T5gPztgwsFDh4MccYY67ChFJYCesVLgmD/E8RNlij55yu8/DZzhrSfh7LnzYcovXCy5dJkS5VcAG3mrCVevxXL9BnCTt8ct4PadGCruAr5K7i3AvfvRPHgIyGp7VeHR4ydPnz1/8fJViIrX1aRtiq4ByqqVM795++59IBD48PHTZ4pcX9TurQ0WLClP2ZeuRl+/BZs/m6/9XltTaUkIj1/OD314dqp+mn8FR/R3WukfbebfuH/WyGj9Bzmi/ssZufZGAAAAAElFTkSuQmCC"/>
+        </svg>
+    );
+};
+
+export default PhoneIcon;

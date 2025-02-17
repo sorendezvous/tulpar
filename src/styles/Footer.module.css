@@ -1,0 +1,5 @@
+.footerBG {
+    background-image: -moz-linear-gradient( -3deg, rgb(183,7,120) 0%, rgb(217,25,93) 50%, rgb(249,36,80) 100%);
+    background-image: -webkit-linear-gradient( -3deg, rgb(183,7,120) 0%, rgb(217,25,93) 50%, rgb(249,36,80) 100%);
+    background-image: -ms-linear-gradient( -3deg, rgb(183,7,120) 0%, rgb(217,25,93) 50%, rgb(249,36,80) 100%);
+}
